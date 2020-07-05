@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275672616015",
+    "firebase_url": "https://food-app-4efe5.firebaseio.com",
+    "project_id": "food-app-4efe5",
+    "storage_bucket": "food-app-4efe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275672616015:android:2d1c507b66a430bcc0ee3a",
+        "android_client_info": {
+          "package_name": "com.example.fluttertestes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275672616015-b9nno58ddojoi6s70m5def14n5sa1lr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFswYp3XcrnrcyD_6Gos7y4wt2h2UkrOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275672616015-b9nno58ddojoi6s70m5def14n5sa1lr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
